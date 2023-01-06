@@ -29,7 +29,7 @@
  
 <div> 
   <a href = "mailto:moises.sampaiojr@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/caroline-lopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mois%C3%A9s-junior-4b4111202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/MoisesSRJR/MoisesSRJR/blob/output/github-contribution-grid-snake.svg)
   
