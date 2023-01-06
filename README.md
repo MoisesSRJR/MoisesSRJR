@@ -1,16 +1,36 @@
-### Hi there 👋
+### Olá! Sou o Moisés Junior 👋
 
-<!--
-**MoisesSRJR/MoisesSRJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou graduado em Análise e Desenvolvimento de Sistemas e com mais de 2 anos de experiência em desenvolvimento web, com foco em front-end. Atualmente sou desenvolvedor front-end pleno I na empresa UDS Tecnologia, onde atuei em projetos como: Mulheres Positivas, Nexo Jornal e ONU. Me destaco pelo interesse e a facilidade em aprender, além de proatividade e dedicação. 
 
-Here are some ideas to get you started:
+ ##
+ 
+<div>
+<a href="https://github.com/MoisesSRJR">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesSRJR&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesSRJR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="GraphQl" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" alt="Jest" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+
+ ##
+ 
+<div> 
+  <a href = "mailto:moises.sampaiojr@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/caroline-lopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/MoisesSRJR/MoisesSRJR/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
