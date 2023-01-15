@@ -3,14 +3,6 @@
 - 🔭 Sou graduado em Análise e Desenvolvimento de Sistemas e com mais de 2 anos de experiência em desenvolvimento web, com foco em front-end. Atualmente sou desenvolvedor front-end pleno I na empresa UDS Tecnologia, onde atuei em projetos como: Mulheres Positivas, Nexo Jornal e ONU. Me destaco pelo interesse e a facilidade em aprender, além de proatividade e dedicação. 
 
  ##
- 
-<div>
-<a href="https://github.com/MoisesSRJR">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesSRJR&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoisesSRJR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
- ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
